@@ -16,4 +16,6 @@ the tutorial i m reffering is from Youtube.
 - now we had just made a branch and added some data to it so we need to push it into git .
 - once we had pushed into branch the terminal messages suggest some steps for pull request.
 - pull request or PR is pulling the changes made into new branch to the main.
- 
+- ## deleting a branch.
+    - git branch -d (name of the branch)
+- about fork --> giving full accessibility to pull or make chges into code on your own repo.
