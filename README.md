@@ -12,3 +12,4 @@ the tutorial i m reffering is from Youtube.
 - now we will create a new branch --> git checkout -b (Name_of_branch)
 - the term checkout will switch bet branchies.
 - --> git checkout (Name of the branch) the branch to be switched
+- diff compares two fies/program and shows the differences of changes.
